@@ -13,7 +13,7 @@ ReactDOM.render(
       name='file'
       accept='.csv'
       multiple={false}
-      action='http://localhost:3000/upload/csv'
+      action='https://bitstrapped-dgvbi2a2hq-uc.a.run.app/upload/csv'
     />
   </Container>,
   document.getElementById('root')
